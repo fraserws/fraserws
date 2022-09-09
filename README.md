@@ -35,8 +35,3 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/fraserws/fraserws/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-Profile Readme Generator
